@@ -208,4 +208,4 @@ This repository serves as the official landing page for Hideaway VPN. The softwa
 **Get the most recent version of Hideaway VPN today!**
 
 ---
-**Last updated:** 2026-11-09 00:17:30 UTC
+**Last updated:** 2026-11-09 07:24:57 UTC
